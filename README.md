@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 
-**Back-end Developer** with experience in building scalable and robust applications using Java, Kotlin, Spring Boot, and Jetpack Compose. I work mainly on backend development, database integration (SQL, MySQL), and infrastructure tools like Git and Docker.
+**Back-end Developer** with experience in building scalable and robust applications using Java, Kotlin, Spring Boot, and Jetpack Compose. I work mainly on backend development, database integration (SQL, MySQL and SQLite), and infrastructure tools like Git and Docker.
 
 I'm currently working as an **Android Developer at Monte Sênior**, contributing to tech solutions in the elderly care sector. I hold a degree in **Software Engineering (ENIAC)** and a technical degree in **Electronics (ETEC)**.
 
@@ -35,7 +35,7 @@ I'm currently working as an **Android Developer at Monte Sênior**, contributing
 
 ## 👨‍💻 Current Role
 
-- 📱 **Android Developer** at Monte Sênior
+- 📱 **Android Developer** at Monte Sênior (freelance)
 
 ---
 
